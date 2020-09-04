@@ -1,2 +1,2 @@
 # study-test
-personal study and test Repository
+personal study and test Repository.
